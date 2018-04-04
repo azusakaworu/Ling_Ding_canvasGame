@@ -1,0 +1,7 @@
+body{text-align: center;user-select:none;}
+
+canvas {display: block; position:relative;border: thin solid black;margin: 0 auto 20px;pointer: none;}
+
+.hide-me {display: none;}
+
+button{margin: 0 8px;user-select: none;}
